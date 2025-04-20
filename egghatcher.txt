@@ -1,0 +1,3 @@
+function coolthing()
+	print("hi")
+end
