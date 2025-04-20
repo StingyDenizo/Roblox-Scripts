@@ -20,6 +20,7 @@ while true do
 	wait()
 	if currentegg ~= nil then
 		wait(0.3)
+		print(currentegg)
 		
 		local args = {
 			"HatchEgg",
